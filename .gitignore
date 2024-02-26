@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+/Build
+/Debug
+/Release
+/out/build/x64-Debug
+cmake-build-debug-visual-studio/
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
