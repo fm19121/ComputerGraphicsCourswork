@@ -1,0 +1,6 @@
+﻿  Renderer.cpp
+C:\Users\c3012795\source\repos\CSC8502 2022\5) Stencils & Scissors\Renderer.cpp(46,91): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\c3012795\source\repos\CSC8502 2022\5) Stencils & Scissors\Renderer.cpp(46,69): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\c3012795\source\repos\CSC8502 2022\5) Stencils & Scissors\Renderer.cpp(46,48): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\c3012795\source\repos\CSC8502 2022\5) Stencils & Scissors\Renderer.cpp(46,26): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  Tutorial5.vcxproj -> C:\Users\c3012795\source\repos\CSC8502 2022\x64\Debug\Tutorial 05 - Scissors and Stencils.exe

@@ -1,0 +1,7 @@
+﻿  Renderer.cpp
+C:\Users\c3012795\source\repos\CSC8502 2022\nclgl\HeightMap.h(11,125): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+nclgl.lib(SOIL.obj) : warning LNK4099: PDB '' was not found with 'nclgl.lib(SOIL.obj)' or at ''; linking object as if no debug info
+nclgl.lib(stb_image_aug.obj) : warning LNK4099: PDB '' was not found with 'nclgl.lib(stb_image_aug.obj)' or at ''; linking object as if no debug info
+nclgl.lib(image_helper.obj) : warning LNK4099: PDB '' was not found with 'nclgl.lib(image_helper.obj)' or at ''; linking object as if no debug info
+nclgl.lib(image_DXT.obj) : warning LNK4099: PDB '' was not found with 'nclgl.lib(image_DXT.obj)' or at ''; linking object as if no debug info
+  Tutorial12.vcxproj -> C:\Users\c3012795\source\repos\CSC8502 2022\x64\Debug\Tutorial 12 - Real-time Lighting B.exe

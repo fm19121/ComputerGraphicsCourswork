@@ -1,0 +1,28 @@
+﻿  Renderer.cpp
+C:\Users\c3012795\source\repos\CSC8502 2022\nclgl\HeightMap.h(11,125): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\c3012795\source\repos\CSC8502 2022\Blank Project\Renderer.cpp(123,88): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\c3012795\source\repos\CSC8502 2022\Blank Project\Renderer.cpp(123,65): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\c3012795\source\repos\CSC8502 2022\Blank Project\Renderer.cpp(123,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\c3012795\source\repos\CSC8502 2022\Blank Project\Renderer.cpp(125,39): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\c3012795\source\repos\CSC8502 2022\Blank Project\Renderer.cpp(125,34): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\c3012795\source\repos\CSC8502 2022\Blank Project\Renderer.cpp(125,29): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\c3012795\source\repos\CSC8502 2022\Blank Project\Renderer.cpp(128,165): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\c3012795\source\repos\CSC8502 2022\Blank Project\Renderer.cpp(128,107): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\c3012795\source\repos\CSC8502 2022\Blank Project\Renderer.cpp(128,65): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\c3012795\source\repos\CSC8502 2022\Blank Project\Renderer.cpp(147,87): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\c3012795\source\repos\CSC8502 2022\Blank Project\Renderer.cpp(147,82): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\c3012795\source\repos\CSC8502 2022\Blank Project\Renderer.cpp(147,76): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\c3012795\source\repos\CSC8502 2022\Blank Project\Renderer.cpp(205,99): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\c3012795\source\repos\CSC8502 2022\Blank Project\Renderer.cpp(205,54): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\c3012795\source\repos\CSC8502 2022\Blank Project\Renderer.cpp(236,207): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\c3012795\source\repos\CSC8502 2022\Blank Project\Renderer.cpp(236,202): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\c3012795\source\repos\CSC8502 2022\Blank Project\Renderer.cpp(236,197): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\c3012795\source\repos\CSC8502 2022\Blank Project\Renderer.cpp(238,204): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\c3012795\source\repos\CSC8502 2022\Blank Project\Renderer.cpp(238,199): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\c3012795\source\repos\CSC8502 2022\Blank Project\Renderer.cpp(238,194): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\c3012795\source\repos\CSC8502 2022\Blank Project\Renderer.cpp(246,109): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\c3012795\source\repos\CSC8502 2022\Blank Project\Renderer.cpp(246,86): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\c3012795\source\repos\CSC8502 2022\Blank Project\Renderer.cpp(246,63): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\c3012795\source\repos\CSC8502 2022\Blank Project\Renderer.cpp(445,85): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\c3012795\source\repos\CSC8502 2022\Blank Project\Renderer.cpp(470,42): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  BlankProject.vcxproj -> C:\Users\c3012795\source\repos\CSC8502 2022\x64\Debug\Blank Project.exe

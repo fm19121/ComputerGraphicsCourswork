@@ -1,0 +1,5 @@
+﻿  Renderer.cpp
+C:\Users\c3012795\source\repos\CSC8502 2022\nclgl\HeightMap.h(11,125): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\c3012795\source\repos\CSC8502 2022\15) Deferred Shading\Renderer.cpp(27,71): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\c3012795\source\repos\CSC8502 2022\15) Deferred Shading\Renderer.cpp(27,32): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Tutorial15.vcxproj -> C:\Users\c3012795\source\repos\CSC8502 2022\x64\Debug\Tutorial 15 - Deferred Shading.exe
